@@ -11,7 +11,7 @@ $$ (\rm{Strategy \: \: I})=   \left\{
       -.5 \le \sum_{i=1}^{n} \beta_{i}^{m} \omega_i \le 0.5 & \\
       \sum_{i=1}^{n} \omega_{i} =1 , \: \: -2 \le \omega_i  \le 2\\
 \end{array} 
-\right.  $$ 
+\right.$$ 
 ``
 
 
