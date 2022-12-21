@@ -30,7 +30,11 @@ The project looks at 2 optimization methods:
 
 <br/>
 
-We will choose  `$\lambda = .7$
+Choose:
+
+```math 
+\lambda = .7
+```
 
 **Conclusion**
 
