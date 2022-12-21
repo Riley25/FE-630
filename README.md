@@ -36,5 +36,5 @@ We will choose  `$\lambda = .7$
 
 We find the strategy II has the best results
 
-![plot](https://raw.githubusercontent.com/Riley25/FE-630/main/plots/Compare_Trends_II_lambda_7.jpg)
+![plot](https://raw.githubusercontent.com/Riley25/FE-630/main/plots/Compare_Trends_II_lambda_7.jpg?raw=true)
 
