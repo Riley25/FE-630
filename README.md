@@ -4,7 +4,7 @@ The project looks at 2 methods:
 
 Recall the following:
 
-
+``math
 $$ (\rm{Strategy \: \: I})=   \left\{
 \begin{array}{ll}
       max \:  \: \rho^T \omega - \lambda \sqrt{\omega^T \Sigma \omega } & \\
@@ -12,7 +12,7 @@ $$ (\rm{Strategy \: \: I})=   \left\{
       \sum_{i=1}^{n} \omega_{i} =1 , \: \: -2 \le \omega_i  \le 2\\
 \end{array} 
 \right.  $$ 
-
+``
 
 
 
